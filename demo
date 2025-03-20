@@ -7,4 +7,4 @@ Search In Google
     Input Text      name=q    Robot Framework
     Press Keys      name=q    ENTER
     Wait Until Page Contains    Robot Framework
-    Close Browser
+    click elemnet
